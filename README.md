@@ -1,3 +1,3 @@
-Codeigniter
+PHP project
 
 CIN 
