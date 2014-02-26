@@ -1,3 +1,4 @@
-PHP project
+PHP agile work
 
-CIN 
+
+Shows how MVC architecture work.
